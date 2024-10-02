@@ -1,8 +1,4 @@
 kaggle.json
-Exploratory_Data_Analysis_for_Machine_Learning\EDA\fossils\predict-the-age-of-a-fossil.zip
-Exploratory_Data_Analysis_for_Machine_Learning\EDA\fossils\data\test_data.csv
-Exploratory_Data_Analysis_for_Machine_Learning\EDA\fossils\data\train_data.csv
-Exploratory_Data_Analysis_for_Machine_Learning\EDA\fossils\data\fossils.csv
-Exploratory_Data_Analysis_for_Machine_Learning\EDA\breast_cancer\breastcancerdataset.zip
-Exploratory_Data_Analysis_for_Machine_Learning\EDA\breast_cancer\data\BRCA.csv
-Supervised_Machine_Learning_Regression\Module_2_Data_Splits_and_Polynomial_Regression\Demo_lab_Training_and_Test_Splits\data\Ames_Housing_Sales.csv
+*.zip
+*.csv
+*.pickle
